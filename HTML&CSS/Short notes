@@ -1,0 +1,8 @@
+HTML stands for Hyper text markup language. The Hyper Text part refers to the fact that HTML allows you to create links that allows visitors to move from one page to another quickly
+
+A markup language allows you to annotate text, and these annotations provide additional meaning to the contents of a document.
+
+HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
+
+Tags usually come in pairs...opening and closing
+opening tags carry attributes , which tell us more about the content of that element.
